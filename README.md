@@ -1,2 +1,3 @@
-# microposts-crud
-Simple CRUD application using json-server and webpack
+# Microposts
+
+Simple CRUD application built in Vanilla JS using json-server and webpack
